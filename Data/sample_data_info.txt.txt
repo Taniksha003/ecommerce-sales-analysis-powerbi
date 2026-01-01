@@ -1,0 +1,9 @@
+Dataset: Olist E-commerce Dataset
+Source: Kaggle
+Description:
+This project uses Brazilian e-commerce sales data.
+The data includes customers, orders, payments, products, and sellers.
+
+Note:
+Raw data is not uploaded due to large size.
+Only analysis and dashboard files are shared.
